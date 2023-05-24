@@ -1,0 +1,36 @@
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    background-color: rgb(223, 223, 223);
+    text-align: center;
+}
+
+h2{
+    padding-top: 50px;
+    color: rgb(24, 37, 94);
+}
+form input{
+    height: 50px;
+    width: 200px;
+    border-radius: 10px;
+    border: none;
+    background-color: rgb(143, 143, 143);
+    color: white;
+    font-size: 20px;
+    margin-top: 20px;
+}
+form button{
+    height: 40px;
+    width: 100px;
+    border-radius: 20px;
+    border: none;
+    background-color: rgb(48, 65, 141);
+    color: white;
+    font-size: 20px;
+    margin-top: 20px;
+}
+p{
+    color: rgb(48, 65, 141);
+    padding-top: 10px;
+    font-size: 20px;
+}
